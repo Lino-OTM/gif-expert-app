@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en el componente <GifItem /> Debe de coincidir con la snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Sparda"
+      src="https://devil-may-cry-sparda.jpg/"
+    />
+    <p>
+      Sparda
+    </p>
+  </div>
+</div>
+`;
